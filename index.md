@@ -3,3 +3,4 @@
 ###### this is the smallest header
 
 add several lines
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
